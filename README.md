@@ -43,6 +43,9 @@ This project uses **machine learning and natural language processing** to classi
 ## 🛠️ How to Run Locally
 
 1. Clone the repository  
-   ```bash
    git clone https://github.com/TusharKotian/Email-Spam-Classifier.git
    cd Email-Spam-Classifier
+2. Install Dependencies
+    pip install -r requirements.txt
+3. Run the App
+    streamlit run app.py
